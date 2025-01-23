@@ -17,6 +17,7 @@ body {
     display: grid;
     gap: 2.25rem;
     letter-spacing: -1%;
+    display: grid;
   }
 
 .product-image {
@@ -124,8 +125,9 @@ body {
 
 .product-cta {
     display: flex;
-    gap: 1.25rem;
     align-items: center;
+    gap: 1.25rem;
+    margin-bottom: 2rem;
 }
 
 .btn-cart {
